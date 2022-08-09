@@ -1,0 +1,159 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+body{
+  background-color: aqua;
+}
+/* .App{
+  height: 500px;
+  width:500px;
+  border-radius: 5px;
+  border: 0.5px solid rgb(194, 245, 9);
+  background-color: white;
+  margin-left: 200px;
+  margin-top: 100px;
+} */
+.heading1{
+  text-align: center;
+}
+.heading{
+  margin-left: 20px;
+  font-weight:500;
+  color: darkmagenta;
+}
+.container2{
+  display:flex;
+}
+.item1{
+  display: inline-flex;
+  height: 30px;
+  margin: 15px;
+  margin-left: 20px;
+  font-size: 20px;
+  border-style: outset;
+  border-radius: 5px;
+}
+.ptag{
+  font-size: 20px;
+  font-weight:500;
+  margin-left: 15px;
+}
+.container3{
+  display: flex;
+}
+.item2{
+  display: inline-flex;
+  margin-left: 20px;
+  
+}
+.timeinpt{
+  margin: 20px;
+}
+.labeltag{
+  margin: 10px;
+}
+.container3{
+  display: flex;
+}
+.item3{
+  display: inline-flex;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.container5{
+  /* margin-top: 30px;
+  margin-bottom: 30px; */
+  margin:20px;
+}
+/* .container{
+  height: 500px;
+  width:500px;
+  border-radius: 5px;
+  border: 0.5px solid black;
+  background-color: white;
+  margin-left: 200px;
+  margin-top: 100px;
+} */
+.btn{
+  margin-left: 35px;
+  height: 30px;
+  border-radius:5px;
+  border: none;
+}
+.btn:hover{
+  background-color: rgb(151, 182, 14);
+  color:white;
+  cursor: pointer;
+}
+.radiobtn{
+  margin: 15px;
+}
+.item{
+  display:flex;
+}
+.itemone{
+  display: inline-flex;
+  margin-left: 20px;
+}
+.itemtwo{
+  margin-left: 200px; 
+}
+.itemslct{
+  border-style: none;
+  width:75px;
+  font-size: 15px;
+}
+.itemslct:hover{
+  background-color: rgba(106, 109, 116, 0.274);
+}
+.radiobtn{
+  width:15px;
+  height: 15px;
+}
+.subt{
+  height: 30px;
+  width: 80px;
+  color: white;
+  background-color: rgb(123, 123, 161);
+  margin: 30px;
+}
+.textcolour{
+  color:red;
+}
+
+
